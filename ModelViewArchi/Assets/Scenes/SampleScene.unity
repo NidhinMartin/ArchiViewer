@@ -2530,7 +2530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5240948049834782713, guid: deccf1bd75222ab419fef0130b2a4d9e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5272262661847662301, guid: deccf1bd75222ab419fef0130b2a4d9e, type: 3}
       propertyPath: _updateRootPose
@@ -8038,7 +8038,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6349819858803557333, guid: f4f1f0ff232ea644c8a980e61825dd44, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6452580797138248955, guid: f4f1f0ff232ea644c8a980e61825dd44, type: 3}
       propertyPath: _updateRootPose
@@ -14775,6 +14775,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: RightHand
       objectReference: {fileID: 0}
+    - target: {fileID: 5223968375313341585, guid: 18d6c10a69abfe04db6dd4e18e5a23ce, type: 3}
+      propertyPath: controllerActionGrip
+      value: 
+      objectReference: {fileID: -8666952849799569744, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 5223968375313341585, guid: 18d6c10a69abfe04db6dd4e18e5a23ce, type: 3}
+      propertyPath: controllerActionPrimary
+      value: 
+      objectReference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 5223968375313341585, guid: 18d6c10a69abfe04db6dd4e18e5a23ce, type: 3}
+      propertyPath: controllerActionTrigger
+      value: 
+      objectReference: {fileID: 7904272356298805229, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 5274246261815799083, guid: 18d6c10a69abfe04db6dd4e18e5a23ce, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -17013,6 +17025,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 558899321495975242, guid: 82ba8fa12c028034e8dc8fe678c0b477, type: 3}
+      propertyPath: controllerActionGrip
+      value: 
+      objectReference: {fileID: -60998027439631388, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 558899321495975242, guid: 82ba8fa12c028034e8dc8fe678c0b477, type: 3}
+      propertyPath: controllerActionPrimary
+      value: 
+      objectReference: {fileID: 6558622148059887818, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+    - target: {fileID: 558899321495975242, guid: 82ba8fa12c028034e8dc8fe678c0b477, type: 3}
+      propertyPath: controllerActionTrigger
+      value: 
+      objectReference: {fileID: -4289430672226363583, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 992177152169500234, guid: 82ba8fa12c028034e8dc8fe678c0b477, type: 3}
       propertyPath: m_Name
       value: LeftHand
